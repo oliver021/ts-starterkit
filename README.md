@@ -1,4 +1,11 @@
+## Template explanation
+
+This repository is a template that can be used through github to start your projects with typescript faster, offering basic and useful things in advance, it includes dependencies for test systems, lint for the quality of the code, a clean folder structure, everything needed to get started with Typescript
+
+> **Note:** This first section of the readme can be removed, it is only an explanation, the template this file begins below
+
 [![npm version](https://badge.fury.io/js/angular2-expandable-list.svg)](https://badge.fury.io/js/angular2-expandable-list)
+
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # Project Name
